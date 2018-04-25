@@ -24,3 +24,4 @@ class gives text a font color of `#999`. Apply this to the Twitter handle and da
 
 ## Resources
 - [Basscss](http://www.basscss.com)
+<p data-visibility='hidden'>PHRG HTML/CSS Lab</p>

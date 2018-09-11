@@ -21,6 +21,9 @@ practice!** Note that it also has some top margin to make the feed not stick to 
 - Lastly, add a custom class called `muted` (you can do this in the `<head>` of the HTML using the `<style>` tag). This
 class gives text a font color of `#999`. Apply this to the Twitter handle and date timestamp as shown in the screenshot.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-css-libraries-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-css-libraries-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 
 ## Resources
 - [Basscss](http://www.basscss.com)
